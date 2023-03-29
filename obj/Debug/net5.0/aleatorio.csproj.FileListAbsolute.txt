@@ -1,0 +1,16 @@
+C:\Users\20222014040010\Downloads\aleatorio\bin\Debug\net5.0\aleatorio.exe
+C:\Users\20222014040010\Downloads\aleatorio\bin\Debug\net5.0\aleatorio.deps.json
+C:\Users\20222014040010\Downloads\aleatorio\bin\Debug\net5.0\aleatorio.runtimeconfig.json
+C:\Users\20222014040010\Downloads\aleatorio\bin\Debug\net5.0\aleatorio.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\aleatorio\bin\Debug\net5.0\aleatorio.dll
+C:\Users\20222014040010\Downloads\aleatorio\bin\Debug\net5.0\ref\aleatorio.dll
+C:\Users\20222014040010\Downloads\aleatorio\bin\Debug\net5.0\aleatorio.pdb
+C:\Users\20222014040010\Downloads\aleatorio\obj\Debug\net5.0\aleatorio.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\aleatorio\obj\Debug\net5.0\aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\aleatorio\obj\Debug\net5.0\aleatorio.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\aleatorio\obj\Debug\net5.0\aleatorio.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\aleatorio\obj\Debug\net5.0\aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\aleatorio\obj\Debug\net5.0\aleatorio.dll
+C:\Users\20222014040010\Downloads\aleatorio\obj\Debug\net5.0\ref\aleatorio.dll
+C:\Users\20222014040010\Downloads\aleatorio\obj\Debug\net5.0\aleatorio.pdb
+C:\Users\20222014040010\Downloads\aleatorio\obj\Debug\net5.0\aleatorio.genruntimeconfig.cache
