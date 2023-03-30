@@ -6,11 +6,7 @@ namespace aleatorio
     {
         static void Main(string[] args)
         {
-            Program.q1();
-            Program.q2();
-            Program.q3();
-            Program.q4();
-            Program.q5();
+            Program.q1013();
         }
 
         static void q1(){
@@ -54,5 +50,29 @@ namespace aleatorio
             double distancia = v*tempod;
             Console.WriteLine($"{distancia}");
         }
+
+        static void q1009(){
+            string nome = Console.ReadLine();
+            double salario = double.Parse(Console.ReadLine());
+            double totalv = double.Parse(Console.ReadLine());
+            
+            double salariot = salario + (totalv*0.15);
+            Console.WriteLine($"TOTAL = R$ {salariot:0.00}");
+        }
+
+        static void q1013(){
+            int num1 = int.Parse(Console.ReadLine());
+            int num2 = int.Parse(Console.ReadLine());
+            int num3 = int.Parse(Console.ReadLine());
+
+            int maiorab = ((num1+num2+(num1*num2*num3)*(num1-num2)))/2;
+            if (maiorab > num3){
+                Console.WriteLine($"{maiorab} eh o maior");
+            }
+            else{
+                Console.WriteLine($"{num3} eh o maior");
+            }
+        }
+        
     }
 }
