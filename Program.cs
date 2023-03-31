@@ -6,7 +6,7 @@ namespace aleatorio
     {
         static void Main(string[] args)
         {
-            Program.q1013();
+            Program.q1017();
         }
 
         static void q1(){
@@ -60,19 +60,105 @@ namespace aleatorio
             Console.WriteLine($"TOTAL = R$ {salariot:0.00}");
         }
 
-        static void q1013(){
-            int num1 = int.Parse(Console.ReadLine());
-            int num2 = int.Parse(Console.ReadLine());
-            int num3 = int.Parse(Console.ReadLine());
+        static void q1012(){
+            string[] abc = Console.ReadLine().Split(' ');
+                
+            double pi = 3.14159;
+            double a = double.Parse(abc[0]);
+            double b = double.Parse(abc[1]);
+            double c = double.Parse(abc[2]);
 
-            int maiorab = ((num1+num2+(num1*num2*num3)*(num1-num2)))/2;
-            if (maiorab > num3){
-                Console.WriteLine($"{maiorab} eh o maior");
-            }
-            else{
-                Console.WriteLine($"{num3} eh o maior");
-            }
+            double areat = (a*c)/2;
+            double areac = pi*Math.Pow(c,2);
+            double areatrap = ((a+b)*c)/2;
+            double areaq = Math.Pow(b,2);
+            double arear = a*b;
+
+            Console.WriteLine($"TRIANGULO: {areat:0.000}");
+            Console.WriteLine($"CIRCULO: {areac:0.000}");
+            Console.WriteLine($"TRAPEZIO: {areatrap:0.000}");
+            Console.WriteLine($"QUADRADO: {areaq:0.000}");
+            Console.WriteLine($"RETANGULO: {arear:0.000}");
+        }
+
+        static void q1013(){
+            string[] Maior = Console.ReadLine().Split(' ');
+
+            int a = int.Parse(Maior[0]);
+            int b = int.Parse(Maior[1]);
+            int c = int.Parse(Maior[2]);
+
+            int maiorab = (a+b+Math.Abs(a-b))/2;
+            int maiorabc = (maiorab+c+Math.Abs(maiorab-c))/2;
+            Console.WriteLine($"{maiorabc} eh o maior");
         }
         
+        static void q1014(){
+            int dist = int.Parse(Console.ReadLine());
+            double totalc = double.Parse(Console.ReadLine());
+            double consumo = (dist/totalc);
+            Console.WriteLine($"{consumo:0.000} km/l");
+            
+        }
+
+        static void q1015(){
+            string[] xy1 = Console.ReadLine().Split(' ');
+            string[] xy2 = Console.ReadLine().Split(' ');
+
+            double x1 = double.Parse(xy1[0]);
+            double y1 = double.Parse(xy1[1]);
+            double x2 = double.Parse(xy2[0]);
+            double y2 = double.Parse(xy2[1]);
+
+            double dist = Math.Sqrt(Math.Pow(x2-x1, 2) + Math.Pow(y2-y1, 2));
+            Console.WriteLine($"{dist:0.0000}");
+        }
+
+        static void q1017(){
+            int tempo = int.Parse(Console.ReadLine());
+            int velocidade = int.Parse(Console.ReadLine());
+
+            double dist = tempo*velocidade;
+            double quantl = dist/12;
+            Console.WriteLine($"{quantl:0.000}");
+        }
+
+        static void q1018(){
+            int num = int.Parse(Console.ReadLine());
+            Console.WriteLine($"{num}");
+            int notas100 = num/100;
+            num = num%100;
+            int notas50 = num/50;
+            num = num%50;
+            int notas20 = num/20;
+            num = num%20;
+            int notas10 = num/10;
+            num = num%10;
+            int notas5 = num/5;
+            num = num%5;
+            int notas2 = num/2;
+            num = num%2;
+
+            Console.WriteLine($"{notas100} nota(s) de R$ 100,00");
+            Console.WriteLine($"{notas50} nota(s) de R$ 50,00");
+            Console.WriteLine($"{notas20} nota(s) de R$ 20,00");
+            Console.WriteLine($"{notas10} nota(s) de R$ 10,00");
+            Console.WriteLine($"{notas5} nota(s) de R$ 5,00");
+            Console.WriteLine($"{notas2} nota(s) de R$ 2,00");
+            Console.WriteLine($"{num} nota(s) de R$ 1,00");
+        }
+
+        static void q2377(){
+            string[] ld = Console.ReadLine().Split(' ');
+            string[] kp = Console.ReadLine().Split(' ');
+
+            int l = int.Parse(ld[0]);
+            int d = int.Parse(ld[1]);
+            int k = int.Parse(kp[0]);
+            int p = int.Parse(kp[1]);
+
+            int custo = ((l/d)*p)+(l*k);
+            Console.WriteLine($"{custo}");
+        }
     }
 }
