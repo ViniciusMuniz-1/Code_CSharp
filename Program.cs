@@ -6,7 +6,7 @@ namespace aleatorio
     {
         static void Main(string[] args)
         {
-            Program.q1017();
+            Program.q2473();
         }
 
         static void q1(){
@@ -58,6 +58,23 @@ namespace aleatorio
             
             double salariot = salario + (totalv*0.15);
             Console.WriteLine($"TOTAL = R$ {salariot:0.00}");
+        }
+
+        static void q1010(){
+            string[] pnc1 = Console.ReadLine().Split(' ');
+            string[] pnc2 = Console.ReadLine().Split(' ');
+
+            int p1 = int.Parse(pnc1[0]);
+            int n1 = int.Parse(pnc1[1]);
+            double c1 = double.Parse(pnc1[2]);
+
+            int p2 = int.Parse(pnc2[0]);
+            int n2 = int.Parse(pnc2[1]);
+            double c2 = double.Parse(pnc2[2]);
+
+            double total = (n1*c1)+(n2*c2);
+
+            Console.WriteLine($"VALOR A PAGAR: R$ {total:0.00}");
         }
 
         static void q1012(){
@@ -148,6 +165,89 @@ namespace aleatorio
             Console.WriteLine($"{num} nota(s) de R$ 1,00");
         }
 
+        static void q1035(){
+            string[] abcd = Console.ReadLine().Split(' ');
+
+            int a = int.Parse(abcd[0]);
+            int b = int.Parse(abcd[1]);
+            int c = int.Parse(abcd[2]);
+            int d = int.Parse(abcd[3]);
+            
+            if(b>c && d>a && c+d>a+b && c>0 && d>0 && a%2==0){
+                Console.WriteLine("Valores aceitos");
+            }
+            else{
+                Console.WriteLine("Valores nao aceitos");
+            }
+        }
+
+        static void q1037(){
+            double num = double.Parse(Console.ReadLine());
+
+            if(num >= 0 && num<=25){
+                Console.WriteLine("Intervalo [0,25]");
+            }
+            else if(num>25 && num<=50){
+                Console.WriteLine("Intervalo (25,50]");
+            }
+            else if(num>50 && num<=75){
+                Console.WriteLine("Intervalo (50,75]");
+            }
+            else if(num>75 && num<=100){
+                Console.WriteLine("Intervalo (75,100]");
+            }
+            else{
+                Console.WriteLine("Fora de intervalo");
+            }
+        }
+
+        static void q1042(){
+            string[] abc = Console.ReadLine().Split(' ');
+
+            int a = int.Parse(abc[0]);
+            int b = int.Parse(abc[1]);
+            int c = int.Parse(abc[2]);
+
+            int maior = a;
+            int meio, last;
+
+            if(maior < b && b > c){
+                maior = b;
+                if(a>c){
+                    meio = a;
+                    last = c;
+                }
+                else{
+                    meio = c;
+                    last = a;
+                }
+            }
+            else if(maior < c){
+                maior = c;
+                if(a>b){
+                    meio = a;
+                    last = b;
+                }
+                else{
+                    meio = b;
+                    last = a;
+                }
+            }
+            else{
+                if(b>c){
+                    meio = b;
+                    last = c;
+                }
+                else{
+                    meio = c;
+                    last = b;
+                }
+            }
+
+            Console.WriteLine($"{last}\n{meio}\n{maior}");
+            Console.WriteLine($"\n{a}\n{b}\n{c}");
+        }
+
         static void q2377(){
             string[] ld = Console.ReadLine().Split(' ');
             string[] kp = Console.ReadLine().Split(' ');
@@ -159,6 +259,84 @@ namespace aleatorio
 
             int custo = ((l/d)*p)+(l*k);
             Console.WriteLine($"{custo}");
+        }
+
+        static void q2456(){
+            string[] abcde = Console.ReadLine().Split(' ');
+
+            int a = int.Parse(abcde[0]);
+            int b = int.Parse(abcde[1]);
+            int c = int.Parse(abcde[2]);
+            int d = int.Parse(abcde[3]);
+            int e = int.Parse(abcde[4]);
+
+            if(a<b){
+                if(b<c){
+                    if(c<d){
+                        if(d<e){
+                            Console.WriteLine("C");
+                        }
+                        else{
+                            Console.WriteLine("N");
+                        }
+                    }
+                    else{
+                        Console.WriteLine("N");
+                    }
+                }
+                else{
+                    Console.WriteLine("N");
+                }
+            }
+            else if(a>b){
+                if(b>c){
+                    if(c>d){
+                        if(d>e){
+                            Console.WriteLine("D");
+                        }
+                        else{
+                            Console.WriteLine("N");
+                        }
+                    }
+                    else{
+                        Console.WriteLine("N");
+                    }
+                }
+                else{
+                    Console.WriteLine("N");
+                }
+                
+            }
+        }
+
+        static void q2473(){
+            string[] abcde = Console.ReadLine().Split(' ');
+            string[] efghi = Console.ReadLine().Split(' ');
+            
+            int contador = 0;
+
+            for (int i = 0; i<5; i++){
+                for(int j = 0; j<i; j++){
+                    if(abcde[i] == efghi[j]){
+                        contador++;
+                    }
+                }     
+            }
+            if(contador<3){
+                Console.WriteLine("azar");
+            }
+            else if(contador==3){
+                Console.WriteLine("terno");
+            }
+            else if(contador==4){
+                Console.WriteLine("quadra");
+            }
+            else if(contador==5){
+                Console.WriteLine("quina");
+            }
+            else{
+                Console.WriteLine("sena");
+            }
         }
     }
 }
