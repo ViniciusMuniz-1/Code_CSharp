@@ -6,7 +6,7 @@ namespace aleatorio
     {
         static void Main(string[] args)
         {
-            Program.q2473();
+            Program.q1117();
         }
 
         static void q1(){
@@ -248,6 +248,50 @@ namespace aleatorio
             Console.WriteLine($"\n{a}\n{b}\n{c}");
         }
 
+        static void q1117(){
+            double[] notasvalidas = new double[2];
+            int notas = 0;
+            while(notas!=2){
+                double nota = double.Parse(Console.ReadLine());
+
+                if(nota>=0 && nota<=10){
+                    notasvalidas[notas] = nota;
+                    notas++;
+                }
+                else{
+                    Console.WriteLine("nota invalida");
+                }
+            }
+            double media = (notasvalidas[0]+notasvalidas[1])/2;
+            Console.WriteLine($"media = {media}");
+        }
+
+        static void q1140(){
+            
+        }
+
+        static void q1151(){
+            int num = int.Parse(Console.ReadLine());
+            int[] soma = new int[50];
+            soma[0] = 0;
+            soma[1] = 1;
+
+            for(int i = 2; i<num; i++){
+                soma[i] = soma[i-1]+soma[i-2];
+            }
+
+            for(int i=0; i<num; i++){
+                if(i+1==num){
+                    Console.Write(soma[i]);
+                }
+                else{
+                    Console.Write(soma[i]+" ");
+                }
+            }
+            
+            Console.WriteLine();
+        }
+
         static void q2377(){
             string[] ld = Console.ReadLine().Split(' ');
             string[] kp = Console.ReadLine().Split(' ');
@@ -315,9 +359,9 @@ namespace aleatorio
             
             int contador = 0;
 
-            for (int i = 0; i<5; i++){
-                for(int j = 0; j<i; j++){
-                    if(abcde[i] == efghi[j]){
+            for (int i = 0; i<6; i++){
+                for(int j = 0; j<6; j++){
+                    if(int.Parse(abcde[i]) == int.Parse(efghi[j])){
                         contador++;
                     }
                 }     
