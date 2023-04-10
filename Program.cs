@@ -6,7 +6,7 @@ namespace aleatorio
     {
         static void Main(string[] args)
         {
-            Program.q1117();
+            Program.q1140();
         }
 
         static void q1(){
@@ -267,7 +267,21 @@ namespace aleatorio
         }
 
         static void q1140(){
-            
+            string frase = Console.ReadLine();
+            int contador = 0;
+            while(frase!="*"){
+                string[] letras;
+                for(int i = 0; i<frase.Length; i++){
+                    letras[i] == frase[0];
+                }
+                if(contador == frase.Length){
+                    Console.WriteLine("Y");
+                }
+                else{
+                    Console.WriteLine("N");
+                }
+                frase = Console.ReadLine(); 
+            }
         }
 
         static void q1151(){
