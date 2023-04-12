@@ -6,7 +6,7 @@ namespace aleatorio
     {
         static void Main(string[] args)
         {
-            Program.q1140();
+            Program.q1221();
         }
 
         static void q1(){
@@ -268,18 +268,18 @@ namespace aleatorio
 
         static void q1140(){
             string frase = Console.ReadLine();
-            int contador = 0;
             while(frase!="*"){
-                string[] letras;
-                for(int i = 0; i<frase.Length; i++){
-                    letras[i] == frase[0];
+                string[] palavras = frase.Split(' ');
+                char fistletter = Char.ToLower(palavras[0][0]);
+                bool istatutogram = true;
+                foreach(string palavra in palavras){
+                    if(Char.ToLower(palavra[0]) != fistletter){
+                        istatutogram = false;
+                        break;
+
+                    }
                 }
-                if(contador == frase.Length){
-                    Console.WriteLine("Y");
-                }
-                else{
-                    Console.WriteLine("N");
-                }
+                Console.WriteLine(istatutogram ? "Y" : "N");
                 frase = Console.ReadLine(); 
             }
         }
@@ -304,6 +304,24 @@ namespace aleatorio
             }
             
             Console.WriteLine();
+        }
+
+        static void q1221(){
+            int quant = int.Parse(Console.ReadLine());
+            int cont = 1;
+            while(quant!=0){
+                int num = int.Parse(Console.ReadLine());
+                for(int j = 1; j<=Math.Sqrt(num); j++){
+                    if(num%j==0){
+                        cont++;
+                        if(cont>2) break;
+                    }
+                }   
+                if(cont==2) Console.WriteLine("Prime");
+                else Console.WriteLine("Not Prime");
+                cont = 1;
+                quant--;
+            }
         }
 
         static void q2377(){
