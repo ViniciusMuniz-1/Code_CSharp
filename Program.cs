@@ -6,7 +6,7 @@ namespace aleatorio
     {
         static void Main(string[] args)
         {
-            Program.q1221();
+            q1247();
         }
 
         static void q1(){
@@ -321,6 +321,25 @@ namespace aleatorio
                 else Console.WriteLine("Not Prime");
                 cont = 1;
                 quant--;
+            }
+        }
+
+        static void q1247(){
+            string[] dvfvg = Console.ReadLine().Split(' ');
+            while(dvfvg[0]!="EOF"){               
+                int d = int.Parse(dvfvg[0]);
+                int vf = int.Parse(dvfvg[1]);
+                int vg = int.Parse(dvfvg[2]);
+
+                int totalL = d*vf;
+                int totalG = d*vg;
+                if(totalL>=totalG){
+                    Console.WriteLine("N");
+                }
+                else{
+                    Console.WriteLine("S");
+                }
+                dvfvg = Console.ReadLine().Split(' ');
             }
         }
 
