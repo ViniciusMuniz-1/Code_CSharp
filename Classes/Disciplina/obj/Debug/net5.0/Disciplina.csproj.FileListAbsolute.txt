@@ -1,0 +1,16 @@
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\obj\Debug\net5.0\Disciplina.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\obj\Debug\net5.0\Disciplina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\obj\Debug\net5.0\Disciplina.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\obj\Debug\net5.0\Disciplina.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\obj\Debug\net5.0\Disciplina.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\bin\Debug\net5.0\Disciplina.exe
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\bin\Debug\net5.0\Disciplina.deps.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\bin\Debug\net5.0\Disciplina.runtimeconfig.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\bin\Debug\net5.0\Disciplina.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\bin\Debug\net5.0\Disciplina.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\bin\Debug\net5.0\ref\Disciplina.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\bin\Debug\net5.0\Disciplina.pdb
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\obj\Debug\net5.0\Disciplina.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\obj\Debug\net5.0\ref\Disciplina.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\obj\Debug\net5.0\Disciplina.pdb
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Disciplina\obj\Debug\net5.0\Disciplina.genruntimeconfig.cache

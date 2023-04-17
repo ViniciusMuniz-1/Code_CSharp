@@ -1,0 +1,16 @@
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\obj\Debug\net5.0\Viagem.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\obj\Debug\net5.0\Viagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\obj\Debug\net5.0\Viagem.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\obj\Debug\net5.0\Viagem.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\obj\Debug\net5.0\Viagem.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\bin\Debug\net5.0\Viagem.exe
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\bin\Debug\net5.0\Viagem.deps.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\bin\Debug\net5.0\Viagem.runtimeconfig.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\bin\Debug\net5.0\Viagem.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\bin\Debug\net5.0\Viagem.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\bin\Debug\net5.0\ref\Viagem.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\bin\Debug\net5.0\Viagem.pdb
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\obj\Debug\net5.0\Viagem.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\obj\Debug\net5.0\ref\Viagem.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\obj\Debug\net5.0\Viagem.pdb
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Viagem\obj\Debug\net5.0\Viagem.genruntimeconfig.cache

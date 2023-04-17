@@ -1,0 +1,16 @@
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\bin\Debug\net5.0\Circulo.exe
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\bin\Debug\net5.0\Circulo.deps.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\bin\Debug\net5.0\Circulo.runtimeconfig.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\bin\Debug\net5.0\Circulo.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\bin\Debug\net5.0\Circulo.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\bin\Debug\net5.0\ref\Circulo.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\bin\Debug\net5.0\Circulo.pdb
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\obj\Debug\net5.0\Circulo.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\obj\Debug\net5.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\obj\Debug\net5.0\Circulo.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\obj\Debug\net5.0\Circulo.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\obj\Debug\net5.0\Circulo.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\obj\Debug\net5.0\Circulo.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\obj\Debug\net5.0\ref\Circulo.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\obj\Debug\net5.0\Circulo.pdb
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\Circulo\obj\Debug\net5.0\Circulo.genruntimeconfig.cache
