@@ -1,6 +1,6 @@
 using System;
 
-namespace aleatorio{
+namespace Disciplina{
     class Disciplina{
         public string nome;
         public int nota1;
