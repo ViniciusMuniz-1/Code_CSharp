@@ -7,7 +7,7 @@ namespace aleatorio
         public int raio;
         
         public static double calc_area(int raio){
-            double area = Math.Pow(Math.PI * raio, 2);
+            double area = Math.PI * Math.Pow(raio, 2);
             return area;
         }
 
