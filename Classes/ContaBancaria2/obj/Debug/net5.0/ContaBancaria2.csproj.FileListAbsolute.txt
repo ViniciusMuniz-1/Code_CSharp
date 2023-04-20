@@ -1,0 +1,16 @@
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\obj\Debug\net5.0\ContaBancaria2.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\obj\Debug\net5.0\ContaBancaria2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\obj\Debug\net5.0\ContaBancaria2.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\obj\Debug\net5.0\ContaBancaria2.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\obj\Debug\net5.0\ContaBancaria2.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\bin\Debug\net5.0\ContaBancaria2.exe
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\bin\Debug\net5.0\ContaBancaria2.deps.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\bin\Debug\net5.0\ContaBancaria2.runtimeconfig.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\bin\Debug\net5.0\ContaBancaria2.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\bin\Debug\net5.0\ContaBancaria2.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\bin\Debug\net5.0\ref\ContaBancaria2.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\bin\Debug\net5.0\ContaBancaria2.pdb
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\obj\Debug\net5.0\ContaBancaria2.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\obj\Debug\net5.0\ref\ContaBancaria2.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\obj\Debug\net5.0\ContaBancaria2.pdb
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\ContaBancaria2\obj\Debug\net5.0\ContaBancaria2.genruntimeconfig.cache
