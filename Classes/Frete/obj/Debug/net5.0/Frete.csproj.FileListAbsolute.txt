@@ -1,0 +1,5 @@
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete\obj\Debug\net5.0\Frete.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete\obj\Debug\net5.0\Frete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete\obj\Debug\net5.0\Frete.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete\obj\Debug\net5.0\Frete.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete\obj\Debug\net5.0\Frete.csproj.CoreCompileInputs.cache
