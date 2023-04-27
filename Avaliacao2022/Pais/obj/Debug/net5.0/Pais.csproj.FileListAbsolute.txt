@@ -1,0 +1,16 @@
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\obj\Debug\net5.0\Pais.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\obj\Debug\net5.0\Pais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\obj\Debug\net5.0\Pais.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\obj\Debug\net5.0\Pais.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\obj\Debug\net5.0\Pais.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\bin\Debug\net5.0\Pais.exe
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\bin\Debug\net5.0\Pais.deps.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\bin\Debug\net5.0\Pais.runtimeconfig.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\bin\Debug\net5.0\Pais.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\bin\Debug\net5.0\Pais.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\bin\Debug\net5.0\ref\Pais.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\bin\Debug\net5.0\Pais.pdb
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\obj\Debug\net5.0\Pais.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\obj\Debug\net5.0\ref\Pais.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\obj\Debug\net5.0\Pais.pdb
+C:\Users\20222014040010\Downloads\CSharp-Studies\Avaliacao2022\Pais\obj\Debug\net5.0\Pais.genruntimeconfig.cache
