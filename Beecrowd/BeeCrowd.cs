@@ -6,7 +6,7 @@ namespace aleatorio
     {
         public static void Main(string[] args)
         {
-            q1247();
+            q1180();
         }
 
         static void q1(){
@@ -304,6 +304,44 @@ namespace aleatorio
             }
             
             Console.WriteLine();
+        }
+
+        static void q1174(){
+            double[] A = new double[100];
+            for(int i = 0; i < A.Length; i++){
+                A[i] = double.Parse(Console.ReadLine());
+            }
+
+            for(int i = 0; i < A.Length; i++){
+                if(A[i] <= 10){
+                    Console.WriteLine($"A[{i}] = {A[i]:0.0}");
+                }
+            }
+        }
+
+        static void q1180(){
+            int n = int.Parse(Console.ReadLine());
+            int[] X = new int[n];
+            string[] vetor = Console.ReadLine().Split(' ');
+            
+            for(int i = 0; i < X.Length; i++){
+                X[i] = int.Parse(vetor[i]);
+            }
+
+            int menor = 0;
+            for(int i = 1; i < X.Length; i++){
+                if(X[menor] > X[i]){
+                    menor = i;
+                }
+            }
+
+            Console.WriteLine($"Menor valor: {X[menor]}");
+            Console.WriteLine($"Posicao: {menor}");
+        }
+
+        static void q1183(){
+            int[,] M = new int[12];
+            
         }
 
         static void q1221(){

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20222014040010\\Downloads\\poo\\CSharp-Studies\\aleatorio.csproj",
+      "projectUniqueName": "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Beecrowd\\aleatorio.csproj",
       "projectName": "aleatorio",
-      "projectPath": "C:\\Users\\20222014040010\\Downloads\\poo\\CSharp-Studies\\aleatorio.csproj",
+      "projectPath": "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Beecrowd\\aleatorio.csproj",
       "packagesPath": "C:\\Users\\20222014040010\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20222014040010\\Downloads\\poo\\CSharp-Studies\\obj\\",
+      "outputPath": "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Beecrowd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\20222014040010\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
