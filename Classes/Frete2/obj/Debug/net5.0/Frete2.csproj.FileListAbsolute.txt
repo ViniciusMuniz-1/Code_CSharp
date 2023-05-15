@@ -1,0 +1,16 @@
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\obj\Debug\net5.0\Frete2.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\obj\Debug\net5.0\Frete2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\obj\Debug\net5.0\Frete2.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\obj\Debug\net5.0\Frete2.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\obj\Debug\net5.0\Frete2.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\bin\Debug\net5.0\Frete2.exe
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\bin\Debug\net5.0\Frete2.deps.json
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\bin\Debug\net5.0\Frete2.runtimeconfig.json
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\bin\Debug\net5.0\Frete2.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\bin\Debug\net5.0\Frete2.dll
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\bin\Debug\net5.0\ref\Frete2.dll
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\bin\Debug\net5.0\Frete2.pdb
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\obj\Debug\net5.0\Frete2.dll
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\obj\Debug\net5.0\ref\Frete2.dll
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\obj\Debug\net5.0\Frete2.pdb
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Frete2\obj\Debug\net5.0\Frete2.genruntimeconfig.cache
