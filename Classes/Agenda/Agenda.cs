@@ -41,6 +41,13 @@ namespace Agenda
 
         public static void Excluir(){
             Console.WriteLine("Excluir um compromisso");
+            int n = 0;
+            foreach(Compromisso c in agenda.Listar())
+                Console.WriteLine($"{n} - {c}");
+            Console.Write("Digite o número do compromisso para remover:");
+            n = int.Parse(Console.ReadLine());
+            Compromisso x = agenda.Listar()[n];
+            Console.WriteLine("Compromisso excluído com sucesso");
         }
 
         public static void Listar(){
@@ -52,6 +59,15 @@ namespace Agenda
 
         public static void Pesquisar(){
             Console.WriteLine("Pesquisar compromissos");
+            Console.WriteLine("Digite o mês:");
+            int mes = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o ano:");
+            int ano = int.Parse(Console.ReadLine());
+
+            foreach (Compromisso c in agenda.Pesquisar(mes,ano))
+            {
+                Console.WriteLine(c);
+            }
         }
     }
 
@@ -89,9 +105,36 @@ namespace Agenda
             k++;
         }
 
+        public void Excluir(Compromisso c){
+            k--;
+            Compromisso[] novo = new Compromisso[k];
+
+            int n = 0;
+            foreach(Compromisso x in Listar())
+                if(x != c) novo[n++] = x;
+            comps = novo;
+        }
+
         public Compromisso[] Listar(){
             Compromisso[] aux = new Compromisso[k];
             Array.Copy(comps, aux, k);
+            return aux;
+        }
+
+        public Compromisso[] Pesquisar(int mes, int ano){
+            int cont = 0;
+            foreach(Compromisso c in Listar()){
+                if(c.Data.Year == ano && c.Data.Month == mes){
+                    cont++;
+                }
+            }
+
+            Compromisso[] aux = new Compromisso[cont];
+            foreach(Compromisso c in Listar()){
+                if(c.Data.Year == ano && c.Data.Month == mes){
+                    aux[cont++] = c;
+                }
+            }
             return aux;
         }
     }
