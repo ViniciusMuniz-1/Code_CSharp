@@ -53,7 +53,7 @@ namespace Retangulo
 
             Retangulo x = new Retangulo(b, altura);
 
-            Console.WriteLine(x.ToString());
+            Console.WriteLine(x);
             Console.WriteLine($"\nÁrea: {x.CalcArea()}");
             Console.WriteLine($"\nDiagonal: {x.CalcDiagonal()}");
         }

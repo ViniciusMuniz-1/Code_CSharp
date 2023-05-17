@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Classes\\Agenda\\Agenda.csproj": {}
+    "C:\\Users\\20222014040010\\Downloads\\CSharp-Studies\\Classes\\Agenda\\Agenda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Classes\\Agenda\\Agenda.csproj": {
+    "C:\\Users\\20222014040010\\Downloads\\CSharp-Studies\\Classes\\Agenda\\Agenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Classes\\Agenda\\Agenda.csproj",
+        "projectUniqueName": "C:\\Users\\20222014040010\\Downloads\\CSharp-Studies\\Classes\\Agenda\\Agenda.csproj",
         "projectName": "Agenda",
-        "projectPath": "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Classes\\Agenda\\Agenda.csproj",
+        "projectPath": "C:\\Users\\20222014040010\\Downloads\\CSharp-Studies\\Classes\\Agenda\\Agenda.csproj",
         "packagesPath": "C:\\Users\\20222014040010\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Classes\\Agenda\\obj\\",
+        "outputPath": "C:\\Users\\20222014040010\\Downloads\\CSharp-Studies\\Classes\\Agenda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20222014040010\\AppData\\Roaming\\NuGet\\NuGet.Config",

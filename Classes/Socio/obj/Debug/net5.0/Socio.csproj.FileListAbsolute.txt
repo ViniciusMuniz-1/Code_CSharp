@@ -1,0 +1,16 @@
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\bin\Debug\net5.0\Socio.exe
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\bin\Debug\net5.0\Socio.deps.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\bin\Debug\net5.0\Socio.runtimeconfig.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\bin\Debug\net5.0\Socio.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\bin\Debug\net5.0\Socio.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\bin\Debug\net5.0\ref\Socio.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\bin\Debug\net5.0\Socio.pdb
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\obj\Debug\net5.0\Socio.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\obj\Debug\net5.0\Socio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\obj\Debug\net5.0\Socio.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\obj\Debug\net5.0\Socio.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\obj\Debug\net5.0\Socio.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\obj\Debug\net5.0\Socio.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\obj\Debug\net5.0\ref\Socio.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\obj\Debug\net5.0\Socio.pdb
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Socio\obj\Debug\net5.0\Socio.genruntimeconfig.cache

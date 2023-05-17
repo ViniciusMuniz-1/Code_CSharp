@@ -1,0 +1,16 @@
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\obj\Debug\net5.0\Agenda.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\obj\Debug\net5.0\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\obj\Debug\net5.0\Agenda.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\obj\Debug\net5.0\Agenda.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\obj\Debug\net5.0\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\bin\Debug\net5.0\Agenda.exe
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\bin\Debug\net5.0\Agenda.deps.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\bin\Debug\net5.0\Agenda.runtimeconfig.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\bin\Debug\net5.0\Agenda.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\bin\Debug\net5.0\Agenda.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\bin\Debug\net5.0\ref\Agenda.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\bin\Debug\net5.0\Agenda.pdb
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\obj\Debug\net5.0\Agenda.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\obj\Debug\net5.0\ref\Agenda.dll
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\obj\Debug\net5.0\Agenda.pdb
+C:\Users\20222014040010\Downloads\CSharp-Studies\Classes\Agenda\obj\Debug\net5.0\Agenda.genruntimeconfig.cache

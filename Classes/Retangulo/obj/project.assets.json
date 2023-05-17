@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Classes\\Retangulo\\Retangulo.csproj",
+      "projectUniqueName": "C:\\Users\\20222014040010\\Downloads\\CSharp-Studies\\Classes\\Retangulo\\Retangulo.csproj",
       "projectName": "Retangulo",
-      "projectPath": "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Classes\\Retangulo\\Retangulo.csproj",
+      "projectPath": "C:\\Users\\20222014040010\\Downloads\\CSharp-Studies\\Classes\\Retangulo\\Retangulo.csproj",
       "packagesPath": "C:\\Users\\20222014040010\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Classes\\Retangulo\\obj\\",
+      "outputPath": "C:\\Users\\20222014040010\\Downloads\\CSharp-Studies\\Classes\\Retangulo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\20222014040010\\AppData\\Roaming\\NuGet\\NuGet.Config",
