@@ -1,0 +1,16 @@
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\obj\Debug\net5.0\MediaDisciplinas.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\obj\Debug\net5.0\MediaDisciplinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\obj\Debug\net5.0\MediaDisciplinas.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\obj\Debug\net5.0\MediaDisciplinas.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\obj\Debug\net5.0\MediaDisciplinas.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\bin\Debug\net5.0\MediaDisciplinas.exe
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\bin\Debug\net5.0\MediaDisciplinas.deps.json
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\bin\Debug\net5.0\MediaDisciplinas.runtimeconfig.json
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\bin\Debug\net5.0\MediaDisciplinas.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\bin\Debug\net5.0\MediaDisciplinas.dll
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\bin\Debug\net5.0\ref\MediaDisciplinas.dll
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\bin\Debug\net5.0\MediaDisciplinas.pdb
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\obj\Debug\net5.0\MediaDisciplinas.dll
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\obj\Debug\net5.0\ref\MediaDisciplinas.dll
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\obj\Debug\net5.0\MediaDisciplinas.pdb
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Relacionamentos_Interfaces\MediaDisciplinas\obj\Debug\net5.0\MediaDisciplinas.genruntimeconfig.cache
