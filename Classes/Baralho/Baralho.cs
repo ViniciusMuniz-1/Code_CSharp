@@ -37,7 +37,7 @@ namespace Baralho
         }
 
         public bool Combinar(Baralho carta){
-            if(this.numero == carta.GetNumero || this.naipe == carta.GetNaipe){
+            if(this.numero == carta.GetNumero() || this.naipe == carta.GetNaipe()){
                 return true;
             }
             else{

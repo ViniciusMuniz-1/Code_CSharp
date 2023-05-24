@@ -1,0 +1,14 @@
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\obj\Debug\netcoreapp3.1\Baralho.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\obj\Debug\netcoreapp3.1\Baralho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\obj\Debug\netcoreapp3.1\Baralho.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\obj\Debug\netcoreapp3.1\Baralho.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\obj\Debug\netcoreapp3.1\Baralho.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\bin\Debug\netcoreapp3.1\Baralho.exe
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\bin\Debug\netcoreapp3.1\Baralho.deps.json
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\bin\Debug\netcoreapp3.1\Baralho.runtimeconfig.json
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\bin\Debug\netcoreapp3.1\Baralho.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\bin\Debug\netcoreapp3.1\Baralho.dll
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\bin\Debug\netcoreapp3.1\Baralho.pdb
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\obj\Debug\netcoreapp3.1\Baralho.dll
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\obj\Debug\netcoreapp3.1\Baralho.pdb
+C:\Users\20222014040010\Downloads\Code_CSharp\Classes\Baralho\obj\Debug\netcoreapp3.1\Baralho.genruntimeconfig.cache

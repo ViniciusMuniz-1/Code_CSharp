@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XBaJllIuZkkvphugI4+TK/dHgHmLIJD7jeGydjDeRwpn9zmpMlAay4IFhu0df8emVfD9jnn2/ei5e04z5MaNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\20222014040010\\Downloads\\Code_CSharp\\Classes\\Baralho\\Baralho.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\20222014040010\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
