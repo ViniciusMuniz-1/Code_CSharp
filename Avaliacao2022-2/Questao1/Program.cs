@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace Questao1
 {
@@ -56,11 +57,17 @@ namespace Questao1
         }
 
         public static void Artilheiros(){
-
+            foreach (Jogador j in equipe.Artilheiros())
+            {
+                Console.WriteLine(j);
+            }
         }
 
         public static void Camisas(){
-
+            foreach (Jogador j in equipe.Camisas())
+            {
+                Console.WriteLine(j);
+            }
         }
     }
 
@@ -91,31 +98,74 @@ namespace Questao1
         }
 
         public Jogador[] Artilheiros(){
-            return null;
+            Jogador[] aux = new Jogador[k];
+            Array.Copy(jogs, aux, k);
+            Array.Sort(aux, new GolComparer());
+            return aux;
         }
 
         public Jogador[] Camisas(){
-            return null;
+            Jogador[] aux = new Jogador[k];
+            Array.Copy(jogs, aux, k);
+            Array.Sort(aux, new CamisaComparer());
+            return aux;
         }
 
         public override string ToString(){
             return null;
         }
     }
+
+    class CamisaComparer : IComparer {
+        public int Compare(object obj1, object obj2)
+        {
+            Jogador jog1 = obj1 as Jogador;
+            Jogador jog2 = obj2 as Jogador;
+            return jog1.Camisa.CompareTo(jog2.Camisa);
+        }
+    }
+
+    class GolComparer : IComparer {
+        public int Compare(object obj1, object obj2)
+        {
+            Jogador jog1 = obj1 as Jogador;
+            Jogador jog2 = obj2 as Jogador;
+            return -jog1.NumGols.CompareTo(jog2.NumGols);
+        }
+    }
     
-    class Jogador{
-        private string nome;
-        private int camisa;
-        private int numGols;
+    class Jogador : IComparable{
+        private string nome = "";
+        private int camisa = 0;
+        private int numGols = 0;
+        
+        public string Nome{
+            set {if(value != "") this.nome = value;}
+            get { return nome; }
+        }
+        public int Camisa{
+            set {if (value > 0 && value<1000) this.camisa = value;}
+            get { return camisa; }
+        }
+        public int NumGols{
+            set {if(numGols>=0) this.numGols = value;}
+            get { return numGols; }
+        }
+
 
         public Jogador(string nome, int camisa, int numGols){
-            this.nome = nome;
-            this.camisa = camisa;
-            this.numGols = numGols;
+            Nome = nome;
+            Camisa = camisa;
+            NumGols = numGols;
         }
 
         public override string ToString(){
             return $"Nome: {nome} - Camisa: {camisa} - Número de gols: {numGols}";
+        }
+
+        public int CompareTo(object obj){
+            Jogador x = obj as Jogador;
+            return nome.CompareTo(x.nome);
         }
     }
 }
