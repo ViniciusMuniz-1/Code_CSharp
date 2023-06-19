@@ -1,0 +1,16 @@
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\obj\Debug\net5.0\CadastroProduto.csproj.AssemblyReference.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\obj\Debug\net5.0\CadastroProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\obj\Debug\net5.0\CadastroProduto.AssemblyInfoInputs.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\obj\Debug\net5.0\CadastroProduto.AssemblyInfo.cs
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\obj\Debug\net5.0\CadastroProduto.csproj.CoreCompileInputs.cache
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\bin\Debug\net5.0\CadastroProduto.exe
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\bin\Debug\net5.0\CadastroProduto.deps.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\bin\Debug\net5.0\CadastroProduto.runtimeconfig.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\bin\Debug\net5.0\CadastroProduto.runtimeconfig.dev.json
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\bin\Debug\net5.0\CadastroProduto.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\bin\Debug\net5.0\ref\CadastroProduto.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\bin\Debug\net5.0\CadastroProduto.pdb
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\obj\Debug\net5.0\CadastroProduto.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\obj\Debug\net5.0\ref\CadastroProduto.dll
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\obj\Debug\net5.0\CadastroProduto.pdb
+C:\Users\20222014040010\Downloads\poo\CSharp-Studies\CadastroProduto\obj\Debug\net5.0\CadastroProduto.genruntimeconfig.cache
